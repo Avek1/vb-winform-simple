@@ -1,0 +1,6 @@
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Simple\Simple\bin\Debug\Simple.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Simple\Simple\obj\Debug\Simple.vbprojResolveAssemblyReference.cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Simple\Simple\bin\Debug\Simple.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Simple\Simple\bin\Debug\Simple.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Simple\Simple\obj\Debug\Simple.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Simple\Simple\obj\Debug\Simple.pdb
